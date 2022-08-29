@@ -4,3 +4,16 @@ th {
   border: 1px solid black;
   border-collapse: collapse;
 }
+table{width: 75%;}
+.besh{
+  background-color: green;
+}
+.tort{
+  background-color: gold;
+}
+.uch{
+  background-color: orange;
+}
+.ikki{
+  background-color: red;
+}
